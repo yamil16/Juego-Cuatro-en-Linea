@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Imagenes/atras.png</file>
+        <file>Imagenes/CuatroTitulo.png</file>
+        <file>Imagenes/FichaAzulM.png</file>
+        <file>Imagenes/FichaRojaM.png</file>
+        <file>Imagenes/FichaRojo.png</file>
+        <file>Imagenes/FondoAzul.png</file>
+        <file>Imagenes/FondoConTableroRojo.png</file>
+        <file>Imagenes/FondoConTableroVerde.png</file>
+        <file>Imagenes/FondoRojo.png</file>
+        <file>Imagenes/icono.png</file>
+        <file>Imagenes/ImagenBlanca.png</file>
+        <file>Imagenes/ImagenCuatroEnLinea.jpg</file>
+        <file>Imagenes/Ok.png</file>
+        <file>Imagenes/salir.png</file>
+        <file>Imagenes/selec.png</file>
+        <file>Imagenes/sig.png</file>
+        <file>Imagenes/silenciar.png</file>
+        <file>Imagenes/TableroRojo.png</file>
+    </qresource>
+</RCC>

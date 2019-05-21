@@ -1,0 +1,18 @@
+Iniciar el juego:
+Siga las instrucciones:
+
+	Windows: 
+		1) Abra la carpeta bin
+		2) Aprete doble click en TresEnLinea.exe.
+
+	Linux: 
+		1) Descargue Qt-Creator (http://qt-project.org/downloads)
+		2) Instale el programa
+		3) Entre a la carpeta TresEnLinea del dispositivo
+		4) Elimine el archivo TresEnLinea.pro.user
+		5) Aprete doble click en TresEnLinea.pro
+		6) Configure el proyecto a gusto (recomendamos tildar la segunda opcion)
+		7) Corra el programa (ctrl+R)
+
+Como jugar:
+	las instrucciones se encuentran en el dispositivo, en el archivo Como_Jugar.
